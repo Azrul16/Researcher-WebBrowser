@@ -1,0 +1,14 @@
+.env.local
+FoxyProxy_config.json
+__pycache__/
+*.pyc
+assets/
+build/
+data/
+data/session.json
+dist/
+installer/
+release/
+ResearcherAcademicBrowser.spec
+server\__pycache__/
+server\*.pyc
